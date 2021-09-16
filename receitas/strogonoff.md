@@ -1,7 +1,5 @@
 # Strogonoff de Frango :chicken:
 
-
-
 ## INGREDIENTES
 
 - 1 colher (sobremesa) de azeite
